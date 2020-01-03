@@ -8,11 +8,6 @@ The keys are:
     BLACK KEYS = ['s', 'd', 'g', 'h', 'j']
     WHITE KEYS = ['z', 'x', 'c', 'v', 'b', 'n', 'm']
 
-
-## TODO:
-
-- [] Add real notes.
-
 ## Preview
 
 - 1 <br>
