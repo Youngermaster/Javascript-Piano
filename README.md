@@ -14,6 +14,6 @@ The keys are:
 
 ## Captures
 
-- <img src="images/1.png" alt="1.png" width="600" height="300"/>
+- <img src="images/1.png" alt="1.png" width="400" height="200"/>
 
-- <img src="images/1.png" alt="1.png" width="600" height="300"/>
+- <img src="images/1.png" alt="1.png" width="400" height="200"/>
