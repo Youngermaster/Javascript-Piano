@@ -8,10 +8,12 @@ The keys are:
     BLACK KEYS = ['s', 'd', 'g', 'h', 'j']
     WHITE KEYS = ['z', 'x', 'c', 'v', 'b', 'n', 'm']
 
-## Preview
+## How it looks?
 
-- 1 <br>
-    ![1.png](images/1.png)
+![animation.gif](images/animation.gif)
 
-- 2 <br>
-    ![2.png](images/2.png)
+## Captures
+
+- <img src="images/1.png" alt="1.png" width="600" height="300"/>
+
+- <img src="images/1.png" alt="1.png" width="600" height="300"/>
